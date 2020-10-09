@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Lock User</string>
+    <string name="title_qr">QR</string>
+    <string name="title_nfc">NFC</string>
+    <string name="password">Password</string>
+    <string name="password_hint">Password</string>
+    <string name="e_mail">Email address</string>
+    <string name="already_have_an_account">Already have an account?</string>
+    <string name="sign_up">Sign up</string>
+    <string name="repeat_password_hint">Repeat password</string>
+    <string name="something_went_wrong_try_again">Something went wrong. Try again!</string>
+    <string name="qr_code">QR code</string>
+    <string name="sign_out">Sign out</string>
+    <string name="don_t_have_an_account_yet">Don\'t have an account yet?</string>
+    <string name="sign_in">Sign in</string>
+</resources>
